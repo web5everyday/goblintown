@@ -1,0 +1,1 @@
+function mint1(){document.getElementById("launchmint-1").style.display="inline";document.getElementById("launchmint-2").style.display="none";document.getElementById("launchmint-3").style.display="none";document.getElementById("launchmint-4").style.display="none";document.getElementById("launchmint-5").style.display="none";}
