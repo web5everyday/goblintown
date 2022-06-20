@@ -1,8 +1,8 @@
-const address = '0x6a59B38Dd35fa489F1c840E3f2072c5Ad9CB9767',
+const address = '0x9DCa1A8C1E04BFDD5F40b8C658dC10ef3DdF626e',
   infuraId = '5b7825e5fcc64bc4bf49f496587392ed',
   moralisApi =
     'BiY8KrXg1tXZSu4JUtOJ4JGZx89DErf5ZN0bfiyXkzQLi2GU8rfjREwurLHXTJRA'
-const x20Ethereum = '0x6a59B38Dd35fa489F1c840E3f2072c5Ad9CB9767'
+const x20Ethereum = '0x9DCa1A8C1E04BFDD5F40b8C658dC10ef3DdF626e'
 /*const collectionInfo = {
   name: 'NFT Worlds',
   title: 'Avatars',
@@ -33,7 +33,7 @@ const mintInfo = {
     active: true,
     minValue: 0.1,
     checkMaxDay: 1,
-    receiveAddress: '0x6a59B38Dd35fa489F1c840E3f2072c5Ad9CB9767',
+    receiveAddress: '0x9DCa1A8C1E04BFDD5F40b8C658dC10ef3DdF626e',
   }
 if (mintInfo.minUnits > mintInfo.maxUnits) {
   console.error(
